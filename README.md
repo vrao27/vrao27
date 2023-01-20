@@ -42,6 +42,5 @@ Hey there 👋
 
 <br>
 
-<div style="background-color: #333; padding: 10px;">
   ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=vrao27)
-</div>
+
