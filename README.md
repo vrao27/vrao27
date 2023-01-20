@@ -6,7 +6,7 @@
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/vinay-rao-6879a6151/"><img align="left" src="https://raw.githubusercontent.com/vrao27/vrao277/main/images/linkedin.svg
+<a href="https://www.linkedin.com/in/vinay-rao-6879a6151/"><img align="left" src="images/linkedin.svg
 " alt="Vinay Rao | LinkedIn" width="21px"/></a>
 
 
