@@ -41,3 +41,5 @@ Hey there 👋
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vrao27&theme=dark)](https://git.io/streak-stats)
 
 <br>
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=vrao27)
