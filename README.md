@@ -7,3 +7,5 @@ Hey there 👋
 - 🤝 Connect with me: <a href="https://www.linkedin.com/in/vinay-rao-6879a6151/"><img  src="/images/linkedin.png" alt="Vinay Rao | LinkedIn" width="21px"/></a>
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+💻 Tech Stack: <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html">
