@@ -28,4 +28,6 @@ Hey there 👋
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 
 
+
+:fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vrao27&theme=dark)](https://git.io/streak-stats)
