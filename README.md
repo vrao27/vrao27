@@ -4,7 +4,7 @@
 
 - ⚡ Fun fact: I love making music! One might ask why music and now coding? Well they both have form, structure and let you express yourself! 
 
-### 🤝 Connect with me:
+ 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/vinay-rao-6879a6151/"><img align="left" src="images/linkedin.svg
 " alt="Vinay Rao | LinkedIn" width="21px"/></a>
