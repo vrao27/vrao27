@@ -6,8 +6,7 @@
 
  🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/vinay-rao-6879a6151/"><img align="left" src="images/linkedin.svg
-" alt="Vinay Rao | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/vinay-rao-6879a6151/"><img align="left" src="/images/linkedin.png" alt="Vinay Rao | LinkedIn" width="21px"/></a>
 
 
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+ 💬 If you have any question/feedback, please do not hesitate to reach out to me!
