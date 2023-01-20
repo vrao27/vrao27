@@ -42,4 +42,3 @@ Hey there 👋
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrao27"/>
