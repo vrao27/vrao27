@@ -3,14 +3,12 @@ Hey there 👋
 - I joined the coding world recently and loving it!
 
 - Coding Journey: Finished an intensive bootcamp from WBS Coding and continuing to grow as a web developer at :
-<br>
  <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" alt="Codeacademy">
  <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy">
 
 - ⚡ Fun fact: I love making music! One might ask why music and now coding? Well they both have form, structure and let you express yourself!
 
 - 🤝 Connect with me: 
-<br>
 <a href="https://www.linkedin.com/in/vinay-rao-6879a6151/"><img  src="/images/linkedin.png" alt="Vinay Rao | LinkedIn" width="21px"/></a>
 
 
@@ -44,4 +42,4 @@ Hey there 👋
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vrao27)](https://github.com/vrao27/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrao27"/>
