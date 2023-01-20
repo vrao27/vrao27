@@ -3,14 +3,16 @@ Hey there 👋
 - I joined the coding world recently and loving it!
 
 - Coding Journey: Finished an intensive bootcamp from WBS Coding and continuing to grow as a web developer at :
- <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" alt="Codeacademy">
- <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy">
+  <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347" alt="Codeacademy">
+  <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="Udemy">
 
 - ⚡ Fun fact: I love making music! One might ask why music and now coding? Well they both have form, structure and let you express yourself!
 
-- 🤝 Connect with me: 
-<a href="https://www.linkedin.com/in/vinay-rao-6879a6151/"><img  src="/images/linkedin.png" alt="Vinay Rao | LinkedIn" width="21px"/></a>
+- 🤝 Connect with me:
+  <a href="https://www.linkedin.com/in/vinay-rao-6879a6151/"><img  src="/images/linkedin.png" alt="Vinay Rao | LinkedIn" width="21px"/></a>
 
+<br>
+<br>
 
 💻 Tech Stack:
 <br>
@@ -33,12 +35,9 @@ Hey there 👋
 <br>
 <br>
 
-
-
 :fire: My Stats :
 <br>
 <br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vrao27&theme=dark)](https://git.io/streak-stats)
 
 <br>
-
