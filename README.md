@@ -42,4 +42,4 @@ Hey there 👋
 
 <br>
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=vrao27)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=vrao27&theme=dark)
