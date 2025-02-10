@@ -35,11 +35,5 @@ Hey there 👋
 <br>
 <br>
 
-:fire: My Stats :
-<br>
-<br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vrao27&theme=dark)](https://git.io/streak-stats)
-
-<br>
 
 
